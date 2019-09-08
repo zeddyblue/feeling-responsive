@@ -1,10 +1,30 @@
 - title: Abstract
   url: "/"
   side: left
+  
+- title: Introduction
+  url: "/introduction/"
+  side: left
 
+- title: Methods
+  url: "/methods/"
+  side: left
+
+- title: Results
+  url: "/results/"
+  side: left
+
+- title: Discussion
+  url: "/discussion/"
+  side: left
+  
+- title: Conclusion
+  url: "/conclusion/"
+  side: left
+  
 - title: Getting Started
   url: "/getting-started/"
-  side: left
+  side: right
   dropdown:
   - title: "Templates"
     url: "/design/"
